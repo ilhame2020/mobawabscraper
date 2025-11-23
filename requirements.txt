@@ -1,0 +1,3 @@
+Scrapy>=2.8.0,<3.0
+# If you encounter Twisted-related install issues on Windows, install Twisted separately:
+# pip install Twisted
